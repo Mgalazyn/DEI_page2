@@ -11,7 +11,7 @@ module.exports = {
         customYellow: '#FFCD00',
       },
       fontFamily: {
-        'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif']
+        'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif'],
       },
     },
   },
