@@ -12,7 +12,7 @@ module.exports = {
       },
       fontFamily: {
         'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif']
-      }
+      },
     },
   },
   plugins: [],
