@@ -17,7 +17,7 @@ export class HeaderComponent {
 
     // Apply CSS classes first
     if (this.isMenuOpen) {
-      list.classList.add('top-[80px]', 'opacity-100', 'bg-black', 'z-999');
+      list.classList.add('top-[80px]', 'opacity-100');
     } else {
       list.classList.remove('top-[80px]', 'opacity-100');
     }
