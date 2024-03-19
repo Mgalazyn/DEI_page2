@@ -9,6 +9,7 @@ import { MissionComponent } from './components/mission/mission.component';
 import { BlueComponent } from './components/blue/blue.component';
 import { GreenComponent } from './components/green/green.component';
 import { RedComponent } from './components/red/red.component';
+import { PartnershipComponent } from './components/partnership/partnership.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { RedComponent } from './components/red/red.component';
     BlueComponent,
     GreenComponent,
     RedComponent,
+    PartnershipComponent,
   ],
   imports: [
     BrowserModule,
