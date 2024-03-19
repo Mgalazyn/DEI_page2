@@ -9,12 +9,14 @@ module.exports = {
     extend: {
       spacing: {
         '-160': '-40rem', // Adjust the value as needed
+        '-200': '-50rem',
         '-256': '-64rem',
       },
       colors: {
         customYellow: '#FFCD00',
         customPurple: '#A158FF',
         customBlue: '#0000FF',
+        customGreen: '#00FF00',
       },
       fontFamily: {
         'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif'],
