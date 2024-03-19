@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { AboutComponent } from './components/about/about.component';
 import { HeaderComponent } from './components/header/header.component';
 import { MissionComponent } from './components/mission/mission.component';
+import { BlueComponent } from './components/blue/blue.component';
+import { GreenComponent } from './components/green/green.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +15,8 @@ import { MissionComponent } from './components/mission/mission.component';
     AboutComponent,
     HeaderComponent,
     MissionComponent,
+    BlueComponent,
+    GreenComponent,
   ],
   imports: [
     BrowserModule,
