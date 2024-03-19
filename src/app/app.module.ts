@@ -8,6 +8,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { MissionComponent } from './components/mission/mission.component';
 import { BlueComponent } from './components/blue/blue.component';
 import { GreenComponent } from './components/green/green.component';
+import { RedComponent } from './components/red/red.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { GreenComponent } from './components/green/green.component';
     MissionComponent,
     BlueComponent,
     GreenComponent,
+    RedComponent,
   ],
   imports: [
     BrowserModule,

@@ -17,6 +17,7 @@ module.exports = {
         customPurple: '#A158FF',
         customBlue: '#0000FF',
         customGreen: '#00FF00',
+        customRed: '#FF0000',
       },
       fontFamily: {
         'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif'],
