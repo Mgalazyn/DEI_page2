@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       colors: {
         customYellow: '#FFCD00',
+        customPurple: '#A158FF',
       },
       fontFamily: {
         'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif'],
