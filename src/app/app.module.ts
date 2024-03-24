@@ -13,6 +13,7 @@ import { PartnershipComponent } from './components/partnership/partnership.compo
 import { OrangeComponent } from './components/orange/orange.component';
 import { ButtonModule } from 'primeng/button';
 import { AnimateOnScrollModule } from 'primeng/animateonscroll';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { AnimateOnScrollModule } from 'primeng/animateonscroll';
     RedComponent,
     PartnershipComponent,
     OrangeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
