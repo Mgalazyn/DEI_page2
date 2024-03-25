@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       spacing: {
         '-160': '-40rem', // Adjust the value as needed
+        '-120': '-30rem',
         '-200': '-50rem',
         '-256': '-64rem',
       },
