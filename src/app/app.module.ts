@@ -33,9 +33,10 @@ import { FooterComponent } from './components/footer/footer.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     ButtonModule,
-    AnimateOnScrollModule
+    AnimateOnScrollModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+  }
