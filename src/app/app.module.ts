@@ -14,6 +14,7 @@ import { PartnershipComponent } from './components/partnership/partnership.compo
 import { RedComponent } from './components/red/red.component';
 import { Mission2Component } from './components/mission2/mission2.component';
 import { WhyDEIComponent } from './components/why-dei/why-dei.component';
+import { InfluenceComponent } from './components/influence/influence.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { WhyDEIComponent } from './components/why-dei/why-dei.component';
     PartnershipComponent,
     RedComponent,
     Mission2Component,
-    WhyDEIComponent
+    WhyDEIComponent,
+    InfluenceComponent
   ],
   imports: [
     BrowserModule
