@@ -15,6 +15,10 @@ import { RedComponent } from './components/red/red.component';
 import { Mission2Component } from './components/mission2/mission2.component';
 import { WhyDEIComponent } from './components/why-dei/why-dei.component';
 import { InfluenceComponent } from './components/influence/influence.component';
+import { Red2Component } from './components/red2/red2.component';
+import { EventsComponent } from './components/events/events.component';
+import { Partnership2Component } from './components/partnership2/partnership2.component';
+import { Footer2Component } from './components/footer2/footer2.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +35,11 @@ import { InfluenceComponent } from './components/influence/influence.component';
     RedComponent,
     Mission2Component,
     WhyDEIComponent,
-    InfluenceComponent
+    InfluenceComponent,
+    Red2Component,
+    EventsComponent,
+    Partnership2Component,
+    Footer2Component
   ],
   imports: [
     BrowserModule
