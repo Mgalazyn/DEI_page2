@@ -1,9 +1,9 @@
 <div class="bg-black">
     <nav class="p-5 bg-white shadow md:flex md:items-center md:justify-center gap-x-60 flex-no-wrap fixed top-0 z-50 flex w-full items-center justify-between">
         <div class="flex justify-between items-center">
-            <span class="text-xl font-plus-jakarta-sans cursor-pointer">
+            <a href="#about" class="text-xl font-plus-jakarta-sans cursor-pointer">
                 <img src="./././assets/logo-navbar2-removebg-preview.png" alt="Logo" class="h-14 inline">
-            </span>
+            </a>
             <span class="text-3xl cursor-pointer text-black mx-4 md:hidden block md:z-2" (click)="toggleMenu()">
                 <!-- <ion-icon [name]="isMenuOpen ? 'close-outline' : 'menu-outline'"></ion-icon> -->
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="main-grid-item-icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
@@ -16,23 +16,33 @@
         <ul class="md:flex md:items-center z-[-1] md:z-auto md:static absolute bg-white w-full left-0 md:w-auto 
         md:py-0 py-4 md:pl-0 pl-7 md:opacity-100 opacity-0 top-[-400px] transition-all ease-in duration-500">
             <li class="mx-4 my-6 md:my-0">
-                <a href="#" class="text-base text-black hover:text-customYellow duration-500">
-                    o DEI team
+                <a href="#about" class="text-base text-black hover:text-customYellow duration-500">
+                    O nas
                 </a>
             </li>
             <li class="mx-4 my-6 md:my-0">
-                <a href="#" class="text-base text-black hover:text-customYellow duration-500">
-                    członkostwo w DEI team
+                <a href="#why-dei" class="text-base text-black hover:text-customYellow duration-500">
+                    Dlaczego DEI team
                 </a>
             </li>
             <li class="mx-4 my-6 md:my-0">
-                <a href="#" class="text-base text-black hover:text-customYellow duration-500">
-                    strefa dla społeczności
+                <a href="#influence" class="text-base text-black hover:text-customYellow duration-500">
+                    Wpływ - co robimy?
                 </a>
             </li>
             <li class="mx-4 my-6 md:my-0">
-                <a href="#" class="text-base text-black hover:text-customYellow duration-500">
-                    strefa dla organizacji
+                <a href="#events" class="text-base text-black hover:text-customYellow duration-500">
+                    Wydarzenia
+                </a>
+            </li>
+            <li class="mx-4 my-6 md:my-0">
+                <a href="#partnership" class="text-base text-black hover:text-customYellow duration-500">
+                    Partnerzy
+                </a>
+            </li>
+            <li class="mx-4 my-6 md:my-0">
+                <a href="#footer" class="text-base text-black hover:text-customYellow duration-500">
+                    Kontakt
                 </a>
             </li>
         </ul>
