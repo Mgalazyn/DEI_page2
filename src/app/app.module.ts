@@ -19,6 +19,9 @@ import { Red2Component } from './components/red2/red2.component';
 import { EventsComponent } from './components/events/events.component';
 import { Partnership2Component } from './components/partnership2/partnership2.component';
 import { Footer2Component } from './components/footer2/footer2.component';
+import { AppRoutingModule } from './app-routing.module';
+import { MultiCompComponent } from './components/multi-comp/multi-comp.component';
+import { DolaczComponent } from './components/dolacz/dolacz.component';
 
 @NgModule({
   declarations: [
@@ -39,10 +42,13 @@ import { Footer2Component } from './components/footer2/footer2.component';
     Red2Component,
     EventsComponent,
     Partnership2Component,
-    Footer2Component
+    Footer2Component,
+    MultiCompComponent,
+    DolaczComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

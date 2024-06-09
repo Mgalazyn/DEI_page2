@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { AboutComponent } from './components/about/about.component';
+import { MultiCompComponent } from './components/multi-comp/multi-comp.component';
+import { DolaczComponent } from './components/dolacz/dolacz.component';
+
 
 const routes: Routes = [
-  { path: 'about', component: AboutComponent},
+  { path: '', component: MultiCompComponent},
+  { path: 'dolacz', component: DolaczComponent},
 ];
 
 @NgModule({
