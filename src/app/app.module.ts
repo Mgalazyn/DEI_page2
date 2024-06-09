@@ -22,6 +22,7 @@ import { Footer2Component } from './components/footer2/footer2.component';
 import { AppRoutingModule } from './app-routing.module';
 import { MultiCompComponent } from './components/multi-comp/multi-comp.component';
 import { DolaczComponent } from './components/dolacz/dolacz.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -48,7 +49,8 @@ import { DolaczComponent } from './components/dolacz/dolacz.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
