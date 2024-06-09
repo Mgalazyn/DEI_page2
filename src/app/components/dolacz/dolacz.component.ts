@@ -12,7 +12,7 @@ export class DolaczComponent {
     from_name: "jan",
     from_surname: "Kowalski",
     from_email: "test@gmail.com",
-    message: "testowa wiadomosc",
+    message: "hej, w czym możemy pomóc?",
   })
 
   constructor(private fb: FormBuilder) {}
