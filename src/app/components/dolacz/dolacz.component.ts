@@ -9,10 +9,10 @@ import emailjs from '@emailjs/browser';
 })
 export class DolaczComponent {
   form: FormGroup = this.fb.group({
-    from_name: "jan",
-    from_surname: "Kowalski",
-    from_email: "test@gmail.com",
-    message: "hej, w czym możemy pomóc?",
+    from_name: "imię",
+    from_surname: "nazwisko",
+    from_email: "email",
+    message: "wiadomość",
   })
 
   constructor(private fb: FormBuilder) {}
