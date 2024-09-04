@@ -10,6 +10,6 @@ export class PopUpComponent {
   constructor(private dialogRef: MatDialogRef<PopUpComponent>) {}
 
   close(): void {
-    this.dialogRef.close(PopUpComponent);
+    this.dialogRef.close();
   }
 }
