@@ -9,16 +9,16 @@
   @tailwind utilities;
 }
 
-.custom-dialog-container {
-  position: absolute;
-  top: 50px;
-  width: 800px;
-  border-radius: 15px;
-  padding: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  background: linear-gradient(75deg, #4ad41f, #f55d37);
-  transition: background 0.5s ease-in-out;
-}
+// .custom-dialog-container {
+//   position: absolute;
+//   top: 50px;
+//   width: 800px;
+//   border-radius: 15px;
+//   padding: 20px;
+//   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+//   background: linear-gradient(75deg, #4ad41f, #f55d37);
+//   transition: background 0.5s ease-in-out;
+// }
 
 // h2[mat-dialog-title] {
 //   font-size: 24px;
@@ -28,26 +28,26 @@
 //   color: #333;
 // }
 
-h3 {
-  text-align: center;
-  margin-top: 0;
-  margin-bottom: 15px;
-  font-size: 20px;
-  color: #444;
-  font-weight: 500;
-}
+// h3 {
+//   text-align: center;
+//   margin-top: 0;
+//   margin-bottom: 15px;
+//   font-size: 20px;
+//   color: #444;
+//   font-weight: 500;
+// }
 
-.mat-dialog-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  margin-bottom: 20px;
-}
-ul {
-  padding: 0;
-  margin-left: 50px;
-}
+// .mat-dialog-content {
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   text-align: center;
+//   margin-bottom: 20px;
+// }
+// ul {
+//   padding: 0;
+//   margin-left: 50px;
+// }
 
 //     li {
 //       margin-bottom: 10px;
