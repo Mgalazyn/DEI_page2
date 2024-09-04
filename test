@@ -1,0 +1,291 @@
+[33mcommit e0b3080381fc43903d82bfe61f29dff48afad2fd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Sep 4 23:05:31 2024 +0200
+
+    refactor v4
+
+[33mcommit e42bea695ebe2653bbfd420728f6f7644ad58b45[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Sep 4 22:53:03 2024 +0200
+
+    refactor ui v3
+
+[33mcommit bed46bb1f6d36092090e7ebf3afdbde4fda09711[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Sep 4 22:50:26 2024 +0200
+
+    ui updates v2
+
+[33mcommit 718bdb36166acd55610d160714d7656660bf5bd2[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Sep 4 22:33:09 2024 +0200
+
+    ui updates
+
+[33mcommit 70cf63ae20f0649ba3f2b206a5774976e5d87510[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Sep 3 23:00:50 2024 +0200
+
+    layout updates
+
+[33mcommit 56c30bca8f415b30068a3713c59648d2d08b2fd9[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Jun 12 21:21:41 2024 +0200
+
+    ui updates
+
+[33mcommit de876aa3eb702915d7e380cf40648fc439430b55[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon Jun 10 12:47:25 2024 +0200
+
+    responsive hot fix
+
+[33mcommit abdca14956c09fa7513127edddbfa2ddab301d95[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Sun Jun 9 19:39:04 2024 +0200
+
+    contact form refactor
+
+[33mcommit baa999a72be884ffa526c5d4ffd65c05de81f667[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Sun Jun 9 19:36:28 2024 +0200
+
+    contact form with logic
+
+[33mcommit f8e708d1acbef549bd861f4f7486fe6279ff69e0[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Sun Jun 9 18:34:23 2024 +0200
+
+    multicomp, routing, contact form, refactor
+
+[33mcommit 9f9a9eccd3f9089e036b11670a7f3ba3c74c72ce[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Sat Jun 8 15:33:38 2024 +0200
+
+    events, footer, influence sections refactor
+    next step change routing, and create component for join club
+
+[33mcommit 2bb29998d02d0ead3cb7997f4cceab94bf119543[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 23:00:42 2024 +0200
+
+    updated to deploy
+
+[33mcommit 0f2bad9aec355ad9c944a2e2034248df080181eb[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 22:37:40 2024 +0200
+
+    updated to deploy
+
+[33mcommit 15352dd58324b3ebf7209b5fb78fbf831669b994[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 20:18:06 2024 +0200
+
+    heroku deploy
+
+[33mcommit c7aabc4022d1c5f1fac1201373a0cbd4a05da4a9[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 20:10:11 2024 +0200
+
+    heroku deploy hot fix v3
+
+[33mcommit 18358ba6de9556d006f848964578dfdf66dac896[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 20:07:05 2024 +0200
+
+    heroku fix
+
+[33mcommit b7aba1bbd1e5301eaa49338011612f242cecaca5[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 20:05:22 2024 +0200
+
+    heroku deploy
+
+[33mcommit 3d324cb8bd324ba9894d3310fe298e2c35dda92d[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 19:30:10 2024 +0200
+
+    final design with logo and fixes
+
+[33mcommit 17cc5297550ed1b466b6d351fd6300699f15dbd4[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon May 6 19:10:38 2024 +0200
+
+    final design after fixes
+
+[33mcommit e28a624b5f94ad498fae6b914a58add9aeeda163[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Fri May 3 12:16:57 2024 +0200
+
+    final design, responsivnes, button action'
+
+[33mcommit 13daca5182c9ac5264d8ab5fd4109681c606a427[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed May 1 21:01:10 2024 +0200
+
+    responsive design
+
+[33mcommit ed50d31adbe20ddc6c7354d3059327c5a4581845[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed May 1 20:22:49 2024 +0200
+
+    final design, before responsive refactor
+
+[33mcommit 12bbfaa69e4dcea9a1df5023f227eb56f034c810[m
+Author: Marcin Gałażyn <marcin.galazyn@itsquad.pl>
+Date:   Fri Apr 26 19:21:27 2024 +0200
+
+    events, footer2, partnership2, red2 components added final desing, next step add responsivnes"
+
+[33mcommit 3fa644a5364113f9f9e9cc2c0361d7a1bd6f6b00[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Thu Apr 25 22:53:37 2024 +0200
+
+    refactor first 4th section, added influence section
+
+[33mcommit e965ff389cf48a0138d5341b510326dbf6d69541[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Apr 24 23:05:28 2024 +0200
+
+    about refactor, final design
+
+[33mcommit c00af896801fa1b05a05e1360c56c9f5bc762868[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Apr 23 22:31:03 2024 +0200
+
+    refactor design
+
+[33mcommit 074054927bf1b159d5f7da79455803f1a4594019[m
+Merge: a2109fa bde01a5
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon Apr 22 15:45:39 2024 +0200
+
+    Merge branch 'main' of https://github.com/Mgalazyn/DEI_page2
+
+[33mcommit a2109fa1f4c9a8fd8c1a49b9ddc02ec7a213ea6c[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon Apr 22 15:31:43 2024 +0200
+
+    about, header update
+
+[33mcommit bde01a5169c22e8776fd1afa00a972bb47c021bd[m
+Author: Marcin Gałażyn <marcin.galazyn@itsquad.pl>
+Date:   Mon Apr 22 08:27:16 2024 +0200
+
+    mission2, why-dei componenets
+
+[33mcommit ea1377260d3b14d775d4056ef16ba6bd82aed72a[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Mar 27 22:01:33 2024 +0100
+
+    aos added to project
+
+[33mcommit a9849f49ba1ad74199cbf4793da86fa4cbc6693a[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Mar 27 21:56:41 2024 +0100
+
+    all components
+
+[33mcommit 3c9afe9df68c6099ab76051c449c912a0d084e67[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Mar 27 21:37:55 2024 +0100
+
+    adding gh-pages
+
+[33mcommit a57141f55ed50ecdfde81f9583b295b80574222e[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Mar 27 21:34:33 2024 +0100
+
+    initial commit
+
+[33mcommit 3dcbdf6a42fd130331b14aaf7d2d2fd2edae0609[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Mar 27 21:14:50 2024 +0100
+
+    initial commit
+
+[33mcommit 731d97f050f03684ef34663983aa02b1504210bb[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 23:18:38 2024 +0100
+
+    check hot fix
+
+[33mcommit 32c4ea0e1c38daa44ab8fce5d2af3425f412c735[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 23:16:02 2024 +0100
+
+    angular commonjs fix
+
+[33mcommit 430cce511dcd6a530048662f8ff0c73be05d0b4a[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 22:47:52 2024 +0100
+
+    newest fix of styles
+
+[33mcommit b628ba3b5ee9d1b59b582f14b59c7474b6bc52aa[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 22:23:25 2024 +0100
+
+    fix for aos
+
+[33mcommit 13af842aeffb622f0ba06c3caca115a07a91de4b[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 21:56:34 2024 +0100
+
+    hot fix script update
+
+[33mcommit daee27a1ed8ed44abe252ece95e29e9969f96d87[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 21:49:44 2024 +0100
+
+    scripts updates
+
+[33mcommit c81a79eeb2b5070bd74a46fbdfc6dac9601c3a62[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 21:48:33 2024 +0100
+
+    scripts for aos
+
+[33mcommit 2f616ab287cb8cfc829bc6118e3abf2eb57b9cb6[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 19:28:36 2024 +0100
+
+    allowed common js dependencies
+
+[33mcommit 9287eb641ba39cf0b15410be989fdc8204856751[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 19:03:17 2024 +0100
+
+    gh pages added to deploy
+
+[33mcommit dbd3e7a7ef9de90511520b65f53d09f5bf9ffad1[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Tue Mar 26 18:57:23 2024 +0100
+
+    AOS animations, hover effects on buttons
+
+[33mcommit b2961e80bc856aeac52997a0c127dbadaf4e7e88[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Mon Mar 25 22:57:26 2024 +0100
+
+    reponsivness of all components
+
+[33mcommit 8d8217beb9018a023b2b471f0fbd954351623735[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Sun Mar 24 13:18:20 2024 +0100
+
+    all sections + footer
+
+[33mcommit bd7d1b254cee2bd5aee99067681a8ee44879bfaf[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Sun Mar 24 13:05:15 2024 +0100
+
+    finished partnership component, generated full orange comp
+
+[33mcommit 927c6f2358b05a0d5ff711d0eec9b77ecd8ee715[m
+Author: Mgalazyn <m.galazynn@gmail.com>
+Date:   Wed Mar 20 14:17:27 2024 +0100
+
+    orange components, primeng
+
+[33m

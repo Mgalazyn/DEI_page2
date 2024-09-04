@@ -1,16 +1,14 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { MultiCompComponent } from './components/multi-comp/multi-comp.component';
 import { DolaczComponent } from './components/dolacz/dolacz.component';
 
-
 const routes: Routes = [
-  { path: '', component: MultiCompComponent},
-  { path: 'dolacz', component: DolaczComponent},
+  // { path: '', component: MultiCompComponent},
+  { path: '', component: DolaczComponent },
 ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
